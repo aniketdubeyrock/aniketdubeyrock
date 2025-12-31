@@ -1,119 +1,170 @@
 <h1 align="center">Hi there, I'm Aniket Dubey 👋</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;React.js+%26+UI+Enthusiast;Building+Scalable+Apps" alt="Typing SVG" />
-  </a>
-</div>
-
 <p align="center">
-  <a href="https://linkedin.com/in/aniketdubey17" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:aniketdubeyrock@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
+  <strong>Full Stack Developer (MERN) | Frontend Specialist | QA & API Tester</strong>
 </p>
 
 <div align="center">
-  I’m a passionate **Full Stack Developer** specializing in the **MERN Stack**. I transition complex requirements into clean, optimized, and scalable web applications. Previously experienced with PHP/Laravel, now fully focused on the JavaScript ecosystem.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;React.js+%26+UI+Enthusiast;QA+%26+API+Testing+Experience;Building+Scalable+%26+Reliable+Apps" />
+  </a>
 </div>
 
 ---
 
-### 🚀 Tech Stack
+### 🔗 Portfolio & Profiles
+
+<p align="center">
+  🌐 <a href="https://ad-dev-lac.vercel.app/" target="_blank"><strong>Portfolio Website</strong></a> |
+  💼 <a href="https://linkedin.com/in/aniketdubey17" target="_blank"><strong>LinkedIn</strong></a> |
+  💻 <a href="https://github.com/aniketdubeyrock" target="_blank"><strong>GitHub</strong></a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:aniketdubeyrock@gmail.com">aniketdubeyrock@gmail.com</a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+<div align="center">
+I’m a <strong>Full Stack Developer & QA Tester</strong> with <strong>2+ years of experience</strong> building and testing scalable web applications.  
+I specialize in the <strong>MERN Stack</strong>, modern frontend development with <strong>React.js</strong>, and ensuring product quality through <strong>Web, API, and Mobile App Testing</strong>.
+
+I bridge the gap between <strong>development and testing</strong>—writing clean code, validating APIs, testing edge cases, and delivering reliable, user-friendly products.
+</div>
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
 
-| Frontend | Backend | Database & Tools |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> | <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> |
-| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+
+### 🗄️ Database & Cloud
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+### 🧪 Testing & QA
+<img src="https://img.shields.io/badge/Web_Testing-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Mobile_App_Testing-34A853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Payload_Testing-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Regression_Testing-6A1B9A?style=for-the-badge" />
+
+### 🛠 Tools & Practices
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Assisted_Development-FF4081?style=for-the-badge" />
 
 </div>
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Development Projects
 
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">📦 Inventory Management</h3>
-      <p align="center"><strong>MERN Stack • Dashboard • Auth</strong></p>
-      <ul>
-        <li>Role-based authentication (JWT + Firebase).</li>
-        <li>Full CRUD for supplier management.</li>
-        <li>Real-time notifications via FCM.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">✈️ Satvik Teerth Yatra</h3>
-      <p align="center"><strong>React (TS) • Laravel • Travel</strong></p>
-      <ul>
-        <li>SEO-friendly UI for travel packages.</li>
-        <li>Integrated Tawk.io & WhatsApp launcher.</li>
-        <li>Skeleton screens for optimized UX.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📝 Blog Backend API</h3>
-      <p align="center"><strong>Node.js • Express • MongoDB</strong></p>
-      <ul>
-        <li>Clean architecture & optimized routes.</li>
-        <li>Custom APIs for posts, categories, comments.</li>
-        <li>Secure Authentication & CRUD.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">💍 Matrimonial Platform</h3>
-      <p align="center"><strong>Frontend Specialist • UI/UX</strong></p>
-      <ul>
-        <li>Complete dynamic profile sections.</li>
-        <li>Responsive forms and interactive layouts.</li>
-        <li>Modern UI design implementation.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 📦 Inventory Management System
+**MERN Stack | Full Stack + QA**
+
+- JWT + Firebase authentication  
+- Product, supplier & stock management  
+- Real-time notifications (FCM)  
+- Full API & regression testing  
+
+</td>
+<td width="50%">
+
+### ✈️ Satvik Teerth Yatra
+**React (TypeScript) | Laravel API**
+
+- SEO-friendly booking platform  
+- Admin dashboard UI  
+- Tawk.to & WhatsApp integration  
+- End-to-end UI & API testing  
+
+</td>
+</tr>
 </table>
 
-> 🏥 **Also working on:** A **Medical UI Project** featuring complex form modules and multi-step user flows with Node.js backend integration.
+---
+
+## 🧪 Testing & QA Projects
+
+### 🧪 Shandilyam ESS Website (Web Testing)
+- Functional, UI, responsive & cross-browser testing  
+- Form & authentication validation  
+- Bug reporting & re-testing  
+
+### 📱 OnsiteBy Shandilyam App (Mobile Testing)
+- Android/iOS testing  
+- Installation, permissions & device compatibility  
+- Network & offline testing  
+
+### 🔌 API & Payload Testing (Postman)
+- GET / POST / PUT / DELETE testing  
+- Valid, invalid & boundary payloads  
+- Status codes, headers & response validation  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketdubeyrock&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketdubeyrock&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketdubeyrock&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketdubeyrock&layout=compact&theme=radical&hide_border=true" height="150" />
 </div>
+
 <br />
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketdubeyrock&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketdubeyrock&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-### 🌱 Currently Learning
-* <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="20"> **Advanced Patterns**
-* <img src="https://img.shields.io/badge/-System_Design-000000?logo=codio&logoColor=white&style=flat-square" height="20"> **Scalable Architecture**
-* <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" height="20"> **Backend Optimization**
+## 🌱 Currently Improving
+- Advanced React & TypeScript patterns  
+- Scalable system design  
+- Backend performance optimization  
+- Test automation fundamentals  
 
 ---
 
 <div align="center">
   <h3>📫 Let's Connect</h3>
-  <p>Open for Full Stack / Frontend opportunities!</p>
-  
-  [<img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aniketdubeyrock@gmail.com)
-  [<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/aniketdubey17)
+  <p>Open to Full Stack / Frontend / QA opportunities</p>
 
-  <br />
-  <br />
-  <i>⭐ "Code. Learn. Build. Repeat."</i>
+  <a href="mailto:aniketdubeyrock@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aniketdubey17">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <br /><br />
+  <i>⭐ Code. Test. Improve. Repeat.</i>
 </div>
