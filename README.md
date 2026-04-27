@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aniket%20Dubey&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20QA%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="35" /> Welcome to my digital workspace!</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Welcome to my digital workspace!</h2>
 
   <p>
     <kbd>Full Stack Developer (MERN)</kbd> • <kbd>Frontend Specialist</kbd> • <kbd>QA & API Tester</kbd>
@@ -113,20 +113,20 @@
 
 ### 📦 Inventory Management System
 **<kbd>MERN Stack</kbd> | Full Stack + QA**
-- JWT + Firebase authentication  
-- Product, supplier & stock management  
-- Real-time notifications (FCM)  
-- Full API & regression testing  
+- JWT + Firebase authentication  
+- Product, supplier & stock management  
+- Real-time notifications (FCM)  
+- Full API & regression testing  
 
 </td>
 <td width="50%" valign="top">
 
 ### ✈️ Satvik Teerth Yatra
 **<kbd>React (TypeScript)</kbd> | <kbd>Laravel API</kbd>**
-- SEO-friendly pilgrimage booking platform  
-- Custom React Admin dashboard UI  
-- Tawk.to & WhatsApp API integration  
-- End-to-end UI & API testing  
+- SEO-friendly pilgrimage booking platform  
+- Custom React Admin dashboard UI  
+- Tawk.to & WhatsApp API integration  
+- End-to-end UI & API testing  
 
 </td>
 </tr>
@@ -183,7 +183,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniketdubeyrock&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketdubeyrock&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 <br/>
 <div align="center">
