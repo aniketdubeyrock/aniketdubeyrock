@@ -183,7 +183,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniketdubeyrock&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketdubeyrock&theme=radical&margin-w=15" />
 </div>
 <br/>
 <div align="center">
