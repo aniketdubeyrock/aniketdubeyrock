@@ -47,7 +47,7 @@
   <tr>
     <td width="25%" align="center">
       <h3><kbd>Mar 2024 - Present</kbd></h3>
-      <p><i>Ranchi, Jharkhand</i></p>
+      <p><i>Delhi, India</i></p>
     </td>
     <td width="75%">
       <h3>🏢 Full Stack Developer | Logic Nexus Solutions Pvt. Ltd.</h3>
